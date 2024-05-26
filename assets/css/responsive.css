@@ -1,0 +1,18 @@
+/* > PC low resolution */
+@media (min-width: 64em) and (max-width: 77.4375em) {
+    
+}
+/* Mobile & tablet */
+@media (max-width: 63.9375em) {
+    
+}   
+
+/* Tablet */
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
+    
+}
+
+/* Mobile */
+@media (max-width: 48em) {
+    
+}
